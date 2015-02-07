@@ -18,7 +18,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/btcsuite/goleveldb/leveldb/util"
+	"github.com/FactomProject/goleveldbUp/leveldb/util"
 )
 
 var errFileOpen = errors.New("leveldb/storage: file still open")

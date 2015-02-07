@@ -16,14 +16,14 @@ import (
 
 	"code.google.com/p/snappy-go/snappy"
 
-	"github.com/btcsuite/goleveldb/leveldb/cache"
-	"github.com/btcsuite/goleveldb/leveldb/comparer"
-	"github.com/btcsuite/goleveldb/leveldb/errors"
-	"github.com/btcsuite/goleveldb/leveldb/filter"
-	"github.com/btcsuite/goleveldb/leveldb/iterator"
-	"github.com/btcsuite/goleveldb/leveldb/opt"
-	"github.com/btcsuite/goleveldb/leveldb/storage"
-	"github.com/btcsuite/goleveldb/leveldb/util"
+	"github.com/FactomProject/goleveldbUp/leveldb/cache"
+	"github.com/FactomProject/goleveldbUp/leveldb/comparer"
+	"github.com/FactomProject/goleveldbUp/leveldb/errors"
+	"github.com/FactomProject/goleveldbUp/leveldb/filter"
+	"github.com/FactomProject/goleveldbUp/leveldb/iterator"
+	"github.com/FactomProject/goleveldbUp/leveldb/opt"
+	"github.com/FactomProject/goleveldbUp/leveldb/storage"
+	"github.com/FactomProject/goleveldbUp/leveldb/util"
 )
 
 var (

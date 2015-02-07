@@ -8,9 +8,9 @@
 package opt
 
 import (
-	"github.com/btcsuite/goleveldb/leveldb/cache"
-	"github.com/btcsuite/goleveldb/leveldb/comparer"
-	"github.com/btcsuite/goleveldb/leveldb/filter"
+	"github.com/FactomProject/goleveldbUp/leveldb/cache"
+	"github.com/FactomProject/goleveldbUp/leveldb/comparer"
+	"github.com/FactomProject/goleveldbUp/leveldb/filter"
 	"math"
 )
 

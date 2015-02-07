@@ -11,10 +11,10 @@ import (
 	"math/rand"
 	"sync"
 
-	"github.com/btcsuite/goleveldb/leveldb/comparer"
-	"github.com/btcsuite/goleveldb/leveldb/errors"
-	"github.com/btcsuite/goleveldb/leveldb/iterator"
-	"github.com/btcsuite/goleveldb/leveldb/util"
+	"github.com/FactomProject/goleveldbUp/leveldb/comparer"
+	"github.com/FactomProject/goleveldbUp/leveldb/errors"
+	"github.com/FactomProject/goleveldbUp/leveldb/iterator"
+	"github.com/FactomProject/goleveldbUp/leveldb/util"
 )
 
 var (
